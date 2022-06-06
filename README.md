@@ -1,2 +1,2 @@
-# personas-en-una-disco-ok
+# personas-en-una-disco
 Created with CodeSandbox
